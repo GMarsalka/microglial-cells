@@ -5,3 +5,7 @@ This is a draft for trained neural network for mice microglial cell classificati
 Implementation
 ------------
 Python3, Keras, Jupyter notebook
+
+Images
+-----------------
+The network is trained on one channel 512x512 images
